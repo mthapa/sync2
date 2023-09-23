@@ -1,3 +1,6 @@
-Version 1
+## Version 1
 - Added gitignore
 - Added newtimestamp
+- Updated Timestamp, fixed day of the week
+
+## Version 2
