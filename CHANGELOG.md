@@ -16,3 +16,6 @@
 
 # Version 5
 No squash merge, just the merge.
+
+# Version 5
+No squash merge, just the merge.
