@@ -19,3 +19,6 @@ No squash merge, just the merge.
 
 # Version 5
 No squash merge, just the merge.
+
+# Version 5
+Squash merge, all the way to main
